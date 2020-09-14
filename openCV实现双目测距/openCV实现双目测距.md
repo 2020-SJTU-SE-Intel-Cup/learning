@@ -14,8 +14,6 @@
 
 ### 匹配
 
-参考：https://blog.csdn.net/He3he3he/article/details/101162766
-
 #### 局部匹配
 
 （算法运算速度快，但在弱纹理、遮挡和视差不连续区域误匹配率高）
@@ -154,5 +152,6 @@ ps：1.代码中使用的是SURF算法，需要用SIFT的只需要将代码中`S
 
 ## 参考文献
 
-1. [基于OpenCV的双目测距系统](https://www.ixueshu.com/document/214c9856c4611007fd5cd51ef69eeb99318947a18e7f9386.html)
-2. [【OpenCV】基于SIFT/SURF算法的双目视差测距](https://blog.csdn.net/qinchang1/article/details/86934636)
+1. [基于OpenCV的双目测距系统论文](https://www.ixueshu.com/document/214c9856c4611007fd5cd51ef69eeb99318947a18e7f9386.html)
+2. [匹配算法](https://blog.csdn.net/qinchang1/article/details/86934636)
+3. [.立体匹配算法](https://blog.csdn.net/He3he3he/article/details/101162766)
